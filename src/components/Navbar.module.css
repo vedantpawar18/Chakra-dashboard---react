@@ -1,0 +1,29 @@
+.navbar{
+    height: 60px;
+    border-bottom: 1px solid rgb(122, 121, 121);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+
+.left{
+    /* border: 1px solid red; */
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.right{
+    /* border: 1px solid green; */
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img{
+    height: 40px;
+    margin-left: 40px;
+}
